@@ -1,0 +1,21 @@
+export const AppColors={
+    red:'#EC4444',
+    lightGrey:'#C6C5CE',
+    lightBlack:'#3C3948',
+    darkBlack:'#0E0B1C',
+    purple:'#6444EC',
+    blueLight:'#86DBDB',
+    grey:'#9795A3',
+    darkGrey:'#53515F',
+    blue60:'#0043EE60',
+    pink60:'#EE00AB80',
+    pink:'#EE00AB',
+    blue:'#0043EE',
+    purple50:'#6444EC50',
+    lightblue60:'#00E8EE60',
+    white:'#FFFFFF',
+    black:'#000000',
+    backGroundColor:'#F4F3FA',
+    textGrey:'#B6B4C0',
+    iconsGrey:'#B7B5C1'
+}
